@@ -1,0 +1,6 @@
+{
+  "name": "EspacioIQ — Farmatodo",
+  "description": "Simulador asistido por Gemini AI de optimización de planogramas y metros lineales para tiendas Farmatodo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
